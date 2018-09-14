@@ -1,0 +1,6 @@
+{
+  "utterance": "test intent second",
+  "intent_type": "test2.intent",
+  "intent": {},
+  "expected_dialog": ["test1", "test2"]
+}

@@ -1,0 +1,6 @@
+{
+  "utterance": "test intent third",
+  "intent_type": "test3.intent",
+  "intent": {},
+  "expected_response": ["test3", "test4"]
+}
